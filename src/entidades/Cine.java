@@ -140,4 +140,6 @@ public class Cine {
         Integer edad = sc.nextInt();
         pelicula = new Pelicula(tit, dir, dur, edad);
     }
+
+
 }
